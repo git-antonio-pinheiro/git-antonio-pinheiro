@@ -1,54 +1,62 @@
-<h1 align="center">Antonio Pinheiro</h1>
-
-<p align="center">
-  <b>Python · Visão computacional · Java</b>
-</p>
-
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Antonio Pinheiro, estudante de desenvolvimento. Foco em IA, Cybersecurity, Linux e Java." src="assets/banner-light.svg" width="100%">
+</picture>
 
 ### Sobre mim
 
-Estudo desenvolvimento de software desde 2023. Comecei pela web, com HTML, CSS e JavaScript, e depois aprofundei em Java e Spring Boot no Oracle Next Education (Alura) e nos bootcamps da DIO.
+Estudo desenvolvimento desde 2023 e hoje concentro meus estudos em **inteligência artificial** e **cibersegurança**. Gosto de entender como as coisas funcionam por dentro: rodar modelos de visão computacional em máquinas comuns, sem placa de vídeo, e reproduzir ataques em laboratório para aprender a me defender deles.
 
-Hoje meu foco é **Python e visão computacional**: detecção e rastreamento de objetos com YOLO e OpenCV rodando só em CPU, sem depender de placa de vídeo.
+---
 
-### O que me interessa
+### 01 · Inteligência Artificial
 
-- **Visão computacional:** detecção e rastreamento de pessoas e veículos
-- **Processamento de imagem:** separar fundo e objetos e reconstruir o desenho traço a traço
-- **APIs em Python:** inferência de modelos servida com FastAPI
-- **Automação:** scripts e aplicativos desktop em Python
-- **Qualidade de software:** casos de teste e relatórios de bugs
-- **Cibersegurança:** estudos e desafios práticos
+- Detecção e rastreamento de pessoas e veículos com **YOLO** e **PyTorch**, rodando só em CPU
+- Segmentação de imagens com **SAM 2.1** e inferência com **ONNX Runtime**
+- APIs de inferência com **FastAPI** e processamento de imagem com **OpenCV**
 
-### Tecnologias
+`Python` `YOLO` `PyTorch` `ONNX Runtime` `OpenCV` `FastAPI`
 
-**Linguagens**
+### 02 · Cybersecurity
+
+- **Bootcamp de Cibersegurança da DIO**, com desafios práticos de ataque e defesa
+- **Engenharia social:** simulação de phishing com o Social-Engineer Toolkit no Parrot Security, em laboratório controlado
+- **Criptografia:** ransomware de estudo em Python com AES, para entender como os arquivos são cifrados e recuperados
+- **Trilhas de estudo:** roadmaps de cibersegurança, do zero ao avançado
+
+`Parrot Security` `Social-Engineer Toolkit` `Python` `AES` `Engenharia social`
+
+### 03 · Linux
+
+- Parrot Security como ambiente dos laboratórios de segurança
+- Aplicativos Python empacotados para Linux em AppImage, compatíveis com X11 e Wayland
+- Terminal, Bash e contêineres Docker
+
+`Parrot Security` `Bash` `Docker` `AppImage`
+
+### 04 · Java
+
+- APIs REST com **Spring Boot**: CRUD com validação, autenticação e autorização
+- Consumo de APIs externas e persistência com **PostgreSQL**
+- Trilha Java do **Oracle Next Education** (Alura)
+
+`Java` `Spring Boot` `PostgreSQL` `Maven` `IntelliJ IDEA`
+
+---
+
+### Ferramentas
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,js,ts,html,css,lua&theme=dark">
-  <img alt="Python, Java, JavaScript, TypeScript, HTML, CSS, Lua" src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,lua&theme=light">
-</picture>
-
-**Frameworks e bibliotecas**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=opencv,fastapi,spring&theme=dark">
-  <img alt="OpenCV, FastAPI, Spring" src="https://skillicons.dev/icons?i=opencv,fastapi,spring&theme=light">
-</picture>
-
-**Ferramentas**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea,vercel&theme=dark">
-  <img alt="Git, GitHub, Docker, Linux, VS Code, IntelliJ IDEA, Vercel" src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea,vercel&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,opencv,fastapi,linux,bash,docker,java,spring,postgres,maven,idea,git,github,vscode&perline=8&theme=dark">
+  <img alt="Python, PyTorch, OpenCV, FastAPI, Linux, Bash, Docker, Java, Spring, PostgreSQL, Maven, IntelliJ IDEA, Git, GitHub, VS Code" src="https://skillicons.dev/icons?i=python,pytorch,opencv,fastapi,linux,bash,docker,java,spring,postgres,maven,idea,git,github,vscode&perline=8&theme=light">
 </picture>
 
 ### Formação
 
-- **Oracle Next Education (ONE)** · Alura: trilha Java
-- **DIO:** bootcamps de Java com Spring Boot e de cibersegurança
 - **Udemy:** Python 3 completo, do básico ao avançado
+- **DIO:** Bootcamp de Cibersegurança
+- **DIO:** Bootcamp Java com Spring Boot
+- **Oracle Next Education (ONE)** · Alura: trilha Java
 
 ### Contato
 
