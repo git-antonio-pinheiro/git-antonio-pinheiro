@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="362" viewBox="0 0 480 362" role="img" aria-labelledby="title desc">
+  <title id="title">Antonio Pinheiro</title>
+  <desc id="desc">Estagiário de Desenvolvimento em IA. Foco em IA, Cybersecurity, Linux e Java.</desc>
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 17px; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .bg { fill: #ffffff; }
+    .bar { fill: #f6f8fa; }
+    .edge { stroke: #d0d7de; }
+    .fg { fill: #1f2328; }
+    .muted { fill: #59636e; }
+    .accent { fill: #1a7f37; }
+    .dot-r { fill: #cf222e; }
+    .dot-y { fill: #9a6700; }
+    .dot-g { fill: #1a7f37; }
+    .ok { animation: on .35s ease-out both; }
+    .d1 { animation-delay: .3s; }
+    .d2 { animation-delay: .55s; }
+    .d3 { animation-delay: .8s; }
+    .d4 { animation-delay: 1.05s; }
+    @keyframes on { from { fill-opacity: 0; } to { fill-opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .ok { animation: none; } }
+  </style>
+  <defs>
+    <clipPath id="window"><rect width="480" height="362" rx="12"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#window)">
+    <rect class="bg" width="480" height="362"/>
+    <rect class="bar" width="480" height="36"/>
+    <line class="edge" x1="0" y1="36" x2="480" y2="36"/>
+  </g>
+  <rect class="edge" x=".5" y=".5" width="479" height="361" rx="12" fill="none"/>
+  <circle class="dot-r" cx="22" cy="18" r="5.5"/>
+  <circle class="dot-y" cx="40" cy="18" r="5.5"/>
+  <circle class="dot-g" cx="58" cy="18" r="5.5"/>
+  <text class="mono muted" x="240" y="23" text-anchor="middle" font-size="12">antonio@pinheiro: ~</text>
+
+  <text class="mono" x="28" y="80"><tspan class="accent">$</tspan><tspan class="fg"> whoami</tspan></text>
+  <text class="sans fg" x="28" y="124" font-size="38" font-weight="700">Antonio Pinheiro</text>
+  <text class="sans muted" x="28" y="156" font-size="18">Estagiário de Desenvolvimento em IA</text>
+
+  <line class="edge" x1="28" y1="182" x2="452" y2="182"/>
+
+  <text class="mono" x="28" y="218"><tspan class="accent">$</tspan><tspan class="fg"> ./foco.sh</tspan></text>
+  <text class="mono muted" x="28" y="252">[ <tspan class="accent ok d1">OK</tspan> ]</text>
+  <text class="mono muted" x="100" y="252">01</text>
+  <text class="mono fg" x="140" y="252">IA</text>
+  <text class="mono muted" x="28" y="280">[ <tspan class="accent ok d2">OK</tspan> ]</text>
+  <text class="mono muted" x="100" y="280">02</text>
+  <text class="mono fg" x="140" y="280">Cybersecurity</text>
+  <text class="mono muted" x="28" y="308">[ <tspan class="accent ok d3">OK</tspan> ]</text>
+  <text class="mono muted" x="100" y="308">03</text>
+  <text class="mono fg" x="140" y="308">Linux</text>
+  <text class="mono muted" x="28" y="336">[ <tspan class="accent ok d4">OK</tspan> ]</text>
+  <text class="mono muted" x="100" y="336">04</text>
+  <text class="mono fg" x="140" y="336">Java</text>
+</svg>

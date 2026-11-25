@@ -1,6 +1,8 @@
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/git-antonio-pinheiro/git-antonio-pinheiro/main/assets/banner-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/git-antonio-pinheiro/git-antonio-pinheiro/main/assets/banner-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/git-antonio-pinheiro/git-antonio-pinheiro/main/assets/banner-dark.svg">
-  <img alt="Antonio Pinheiro, estagiário de Desenvolvimento em IA. Foco em IA, Cybersecurity, Linux e Java." src="https://raw.githubusercontent.com/git-antonio-pinheiro/git-antonio-pinheiro/main/assets/banner-light.svg" width="100%">
+  <img alt="Antonio Pinheiro, estagiário de Desenvolvimento em IA. Foco em IA, Cybersecurity, Linux e Java." src="https://raw.githubusercontent.com/git-antonio-pinheiro/git-antonio-pinheiro/main/assets/banner-light.svg">
 </picture>
 
 ### Sobre mim
