@@ -50,3 +50,20 @@ Hoje meu foco é **Python e visão computacional**: detecção e rastreamento de
 - **Oracle Next Education (ONE)** · Alura: trilha Java
 - **DIO:** bootcamps de Java com Spring Boot e de cibersegurança
 - **Udemy:** Python 3 completo, do básico ao avançado
+
+### Contato
+
+<a href="https://www.linkedin.com/in/antoniogabrielpnhr/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linkedin&theme=dark">
+    <img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin&theme=light">
+  </picture>
+</a>
+<a href="mailto:antonio.pinheiro2308@gmail.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=gmail&theme=dark">
+    <img alt="E-mail" src="https://skillicons.dev/icons?i=gmail&theme=light">
+  </picture>
+</a>
+
+[linkedin.com/in/antoniogabrielpnhr](https://www.linkedin.com/in/antoniogabrielpnhr/) · [antonio.pinheiro2308@gmail.com](mailto:antonio.pinheiro2308@gmail.com)
