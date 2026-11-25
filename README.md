@@ -74,23 +74,12 @@ Em paralelo, estudo **cibersegurança com foco em Blue Team**. Tenho o certifica
 ### Ferramentas
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,opencv,fastapi,linux,bash,docker,java,spring,postgres,mysql,maven,idea,aws,git,github,vscode&perline=9&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cpytorch%2Copencv%2Cfastapi%2Clinux%2Cbash%2Cdocker%2Cjava%2Cspring%2Cpostgres%2Cmysql%2Cmaven%2Cidea%2Caws%2Cgit%2Cgithub%2Cvscode&perline=9&theme=dark">
   <img alt="Python, PyTorch, OpenCV, FastAPI, Linux, Bash, Docker, Java, Spring, PostgreSQL, MySQL, Maven, IntelliJ IDEA, AWS, Git, GitHub, VS Code" src="https://skillicons.dev/icons?i=python,pytorch,opencv,fastapi,linux,bash,docker,java,spring,postgres,mysql,maven,idea,aws,git,github,vscode&perline=9&theme=light">
 </picture>
 
 ### Contato
 
-<a href="https://www.linkedin.com/in/antoniogabrielpnhr/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linkedin&theme=dark">
-    <img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin&theme=light">
-  </picture>
-</a>
-<a href="mailto:antonio.pinheiro2308@gmail.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=gmail&theme=dark">
-    <img alt="E-mail" src="https://skillicons.dev/icons?i=gmail&theme=light">
-  </picture>
-</a>
+<a href="https://www.linkedin.com/in/antoniogabrielpnhr/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linkedin&theme=dark"><img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin&theme=light"></picture></a>&nbsp;<a href="mailto:antonio.pinheiro2308@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=gmail&theme=dark"><img alt="E-mail" src="https://skillicons.dev/icons?i=gmail&theme=light"></picture></a>
 
 [linkedin.com/in/antoniogabrielpnhr](https://www.linkedin.com/in/antoniogabrielpnhr/) · [antonio.pinheiro2308@gmail.com](mailto:antonio.pinheiro2308@gmail.com)
