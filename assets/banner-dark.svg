@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-labelledby="title desc">
   <title id="title">Antonio Pinheiro</title>
-  <desc id="desc">Estudante de desenvolvimento. Foco em IA, Cybersecurity, Linux e Java.</desc>
+  <desc id="desc">Estagiário de Desenvolvimento em IA. Foco em IA, Cybersecurity, Linux e Java.</desc>
   <style>
     .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 16px; }
     .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
@@ -45,7 +45,7 @@
 
   <text class="mono in d1" x="32" y="82"><tspan class="accent">$</tspan><tspan class="fg"> whoami</tspan></text>
   <text class="sans fg in d2" x="32" y="132" font-size="42" font-weight="700">Antonio Pinheiro</text>
-  <text class="sans muted in d3" x="32" y="166" font-size="18">Estudante de desenvolvimento</text>
+  <text class="sans muted in d3" x="32" y="166" font-size="18">Estagiário de Desenvolvimento em IA</text>
   <text class="mono accent in d9" x="32" y="222">$</text>
   <rect class="accent cursor" x="48" y="207" width="10" height="19"/>
 
