@@ -18,7 +18,6 @@ Hoje meu foco é **Python e visão computacional**: detecção e rastreamento de
 - **Processamento de imagem:** separar fundo e objetos e reconstruir o desenho traço a traço
 - **APIs em Python:** inferência de modelos servida com FastAPI
 - **Automação:** scripts e aplicativos desktop em Python
-- **Jogos:** desenvolvimento para Roblox em Luau
 - **Qualidade de software:** casos de teste e relatórios de bugs
 - **Cibersegurança:** estudos e desafios práticos
 
