@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Antonio Pinheiro, estudante de desenvolvimento. Foco em IA, Cybersecurity, Linux e Java." src="assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/git-antonio-pinheiro/git-antonio-pinheiro/main/assets/banner-dark.svg">
+  <img alt="Antonio Pinheiro, estudante de desenvolvimento. Foco em IA, Cybersecurity, Linux e Java." src="https://raw.githubusercontent.com/git-antonio-pinheiro/git-antonio-pinheiro/main/assets/banner-light.svg" width="100%">
 </picture>
 
 ### Sobre mim
